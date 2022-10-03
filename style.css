@@ -25,6 +25,15 @@ body {
     width: 300px;
     margin-bottom: 20px;
 }
+
+.opt_inputs_container{
+    width: 300px;
+    display: flex;
+    column-gap: .5em;
+}
+.opt_input{
+    width: 100%;
+}
 button {
     padding: 12px 20px;
     margin-bottom: 20px;
